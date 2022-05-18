@@ -1,4 +1,5 @@
 # What is Node.js?
+Node.js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.<br/>
 Node.js is an open source server environment.<br/>
 Node.js is free.<br/>
 Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.).<br/>
